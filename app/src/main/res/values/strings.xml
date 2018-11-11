@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ForegroundService</string>
+
+    <string name="NAMESPACE">http://tempuri.org/</string>
+    <string name="URL">http://172.16.1.131/SalesForAndroidService/AndriodWebService/NMLText.asmx</string>
+
+    <string name="SOAP_ACTION_SaveLocationHistory">http://tempuri.org/SaveLocation</string>
+    <string name="METHOD_NAME_SaveLocationHistory">SaveLocation</string>
+
+
+</resources>
